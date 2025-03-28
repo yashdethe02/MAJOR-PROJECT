@@ -150,3 +150,10 @@ Werkzeug==3.0.6
 zipp==3.21.0
 zope.event==5.0
 zope.interface==7.2
+torch==2.2.0+cpu
+torchvision==0.15.2+cpu
+torchaudio==2.2.0+cpu
+typing_extensions==4.7.1
+urllib3==2.1.0
+watchdog==3.0.0
+websocket-client==1.5.1
