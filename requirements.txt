@@ -49,3 +49,5 @@ urllib3==2.2.3
 virtualenv==20.27.0
 Werkzeug==3.0.6
 zipp==3.21.0
+gunicorn
+flask 
