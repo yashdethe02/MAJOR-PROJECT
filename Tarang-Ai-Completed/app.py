@@ -60,4 +60,4 @@ def predict():
     return render_template('aipred.html', show_result=True, pred=pred, safe_prob=safe_prob, unsafe_prob=unsafe_prob)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5002)
+    app.run(debug=True, port=5000)
